@@ -1,8 +1,8 @@
 import time
 import random
 
-def give_vbuck(username, amount):
-    print(f"Giving my boy {username} {amount} vbucks.")
+def give_vbuck(Fadukey, 50,000):
+    print(f"Giving my boy {Fadukey} {50,000} vbucks.")
 
     time.sleep(5)
 
